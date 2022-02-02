@@ -1,2 +1,6 @@
 111
+<<<<<<< HEAD
 this text from main
+=======
+this text from feature2
+>>>>>>> feature2
